@@ -1,0 +1,14 @@
+2025-04-15T14:04:38.689-07:00  INFO 33380 --- [CandyShopApp] [main] c.mcnz.mcp.CandyShopAppApplicationTests  : Starting CandyShopAppApplicationTests using Java 21.0.6 with PID 33380 (started by Owner in C:\_workspace\SpringMCP\CandyShopApp)
+2025-04-15T14:04:38.690-07:00  INFO 33380 --- [CandyShopApp] [main] c.mcnz.mcp.CandyShopAppApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-04-15T14:04:39.274-07:00  INFO 33380 --- [CandyShopApp] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 1, notification: true
+2025-04-15T14:04:39.408-07:00  INFO 33380 --- [CandyShopApp] [main] c.mcnz.mcp.CandyShopAppApplicationTests  : Started CandyShopAppApplicationTests in 0.938 seconds (process running for 1.951)
+    "mcpServers": {
+        "Preferred DevOps Tools": {
+            "command": "java",
+            "args": [
+                "-Dspring.ai.mcp.server.transport=STDIO",
+                "-java",
+                "C:\\_workspace\\SpringMCP\\CandyShopApp\\target\\candyshop-1.0.jar"
+            ]
+        }
+    }
